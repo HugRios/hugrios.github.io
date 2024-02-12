@@ -13,6 +13,6 @@ Transient (tránsito): distinta en cada solicitud (siempre va a ser diferente).
 Scoped : el mismo objeto por cada solicitud a nivel request (mismo valor para una solicitud, diferente para solicitudes distintas)
 Singleton: el mismo para todas las solicitudes (siempre el mismo valor)
 
-![Ejemplo](./images/inyeccion.png "Ejemplo valores")
+![Ejemplo](/images/inyeccion.png "Ejemplo valores")
 
 fuente: <https://www.youtube.com/watch?v=srPGwwMwAoA>
