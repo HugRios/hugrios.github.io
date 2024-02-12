@@ -1,5 +1,5 @@
 ## Inyección de dependencias ##
-### .Net Core###
+### .Net Core ###
 
 Principios: 
 + Se realiza una única contrucción del objeto
@@ -15,6 +15,6 @@ Singleton: el mismo para todas las solicitudes (siempre el mismo valor)
 
 Ejemplo:
 
-![The San Juan Mountains are beautiful!](/images/inyeccion.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](./images/inyeccion.jpg "San Juan Mountains")
 
 fuente: <https://www.youtube.com/watch?v=srPGwwMwAoA>
